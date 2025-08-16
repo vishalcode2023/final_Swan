@@ -208,8 +208,8 @@ const solutions = [
             link: "/Products/pro5",
           },
           {
-            image: "/img5.jpeg",
-            title: "swan 5 chute 320 channel box type",
+            image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875490/256_channel_4_chute_wuw2wp.jpg",
+            title: "Swan 4 chute 256 channel",
             link: "/Products/pro4",
           },
           {
@@ -230,7 +230,7 @@ const solutions = [
           {
             image:
               "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875333/64_channel_1_chute_a27wrm.jpg",
-            title: "Swan 3 Chute 192 Channel",
+            title: "Swan 1 Chute 64 Channel",
           },
         ],
       },
