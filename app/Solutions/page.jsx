@@ -20,9 +20,9 @@ const solutions = [
     id: "MultiGrains",
     title: "Agricultural Products Sorting",
     image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1755359423/WhatsApp_Image_2025-08-16_at_7.08.01_PM_jl5hyn.jpg",
-    // icon: "🌾",
+    icon: "🌾",
     items: [
-      // Rice
+      //Rice
       {
         name: "Rice",
         images: [
