@@ -220,7 +220,7 @@ const solutions = [
           },
           {
             "src": "https://res.cloudinary.com/dysyaxsnc/image/upload/v1755229419/WhatsApp_Image_2025-08-14_at_2.25.22_PM_aphhyq.jpg",
-            "title": "  Moong Dal",
+            "title": "Channa Dal",
             "details": {
               "points": [
                 "Removes powdery residue for a cleaner product",
@@ -232,38 +232,7 @@ const solutions = [
               "description": "Split yellow moong dal is a staple in Indian households, known for its ease of cooking and nourishing qualities."
             }
           },
-          {
-            "src": "/images/Non-GMO Soybeans.jpeg",
-            "title": " Soybeans",
-            "details": {
-              "points": [
-                "Precision sorting separates high-quality soybeans",
-                "Ensures compliance with non-GMO standards",
-                "Increases yield for tofu and soy milk production",
-                "Reduces defective grains in final product",
-                "Improves traceability and food safety"
-              ],
-              "description": "Soybeans are one of the richest sources of plant protein and are widely used in various vegetarian and vegan products."
-            }
-          },
-          
-          
-          {
-            "src": "/images/Black-Eyed Peas.jpeg",
-            "title": " Peas",
-            "details": {
-              "points": [
-                "Precision sorting highlights unique eye-spot feature",
-                "Removes misshapen or blemished peas",
-                "Improves consistency for canned or dry goods",
-                "Ideal for branding in international markets",
-                "Reduces manual inspection time"
-              ],
-              "description": "Black-eyed peas are nutrient-dense legumes used in a variety of regional dishes for their unique look and rich nutrients."
-            }
-          },
-
-
+      
           {
             "src": "https://res.cloudinary.com/dt2juqy9s/image/upload/v1752938041/unpolished__xyvbrk.jpg",
             "title": " Masoor dal",
