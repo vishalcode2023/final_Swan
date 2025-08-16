@@ -2650,7 +2650,6 @@ const solutions = [
               points: [
                 "Advanced material sorting technology for recycling and industrial use",
                 "Utilizes AI, sensors, and vision systems for precise separation",
-                "Enhances efficiency in plastic, metal, and e-waste processing lines",
                 "Supports sustainability by reducing landfill and promoting resource recovery",
                 "Trusted by industries worldwide for reliable and intelligent sorting solutions",
               ],
@@ -2666,7 +2665,6 @@ const solutions = [
               points: [
                 "Advanced material sorting technology for recycling and industrial use",
                 "Utilizes AI, sensors, and vision systems for precise separation",
-                "Enhances efficiency in plastic, metal, and e-waste processing lines",
                 "Supports sustainability by reducing landfill and promoting resource recovery",
                 "Trusted by industries worldwide for reliable and intelligent sorting solutions",
               ],
@@ -2681,7 +2679,6 @@ const solutions = [
               points: [
                 "Advanced material sorting technology for recycling and industrial use",
                 "Utilizes AI, sensors, and vision systems for precise separation",
-                "Enhances efficiency in plastic, metal, and e-waste processing lines",
                 "Supports sustainability by reducing landfill and promoting resource recovery",
                 "Trusted by industries worldwide for reliable and intelligent sorting solutions",
               ],
@@ -2696,7 +2693,6 @@ const solutions = [
               points: [
                 "Advanced material sorting technology for recycling and industrial use",
                 "Utilizes AI, sensors, and vision systems for precise separation",
-                "Enhances efficiency in plastic, metal, and e-waste processing lines",
                 "Supports sustainability by reducing landfill and promoting resource recovery",
                 "Trusted by industries worldwide for reliable and intelligent sorting solutions",
               ],
