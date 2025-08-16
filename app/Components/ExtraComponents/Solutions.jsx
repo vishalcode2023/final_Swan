@@ -6,7 +6,7 @@ const solutionImages = [
   "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754817496/WhatsApp_Image_2025-08-06_at_7.24.23_PM_zjjrxl.jpg",
   "https://res.cloudinary.com/dysyaxsnc/image/upload/v1755072465/WhatsApp_Image_2025-08-13_at_1.25.08_PM_fenthf.jpg",
   "https://res.cloudinary.com/dysyaxsnc/image/upload/v1755229419/WhatsApp_Image_2025-08-14_at_2.25.22_PM_aphhyq.jpg",
-  "/360_F_407042220_gd0K3aNiJQTFPwg7BRw6p4Zlm75LEzRl.webp",
+  "https://res.cloudinary.com/dysyaxsnc/image/upload/v1755332196/WhatsApp_Image_2025-08-16_at_1.44.14_PM_rqovfn.jpg",
   "/photo-1574323347407-f5e1ad6d020b.avif",
 ];
 
