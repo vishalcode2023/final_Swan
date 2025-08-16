@@ -296,14 +296,14 @@ const solutions = [
           }
         ],
         recommended: [
-          {
+           {
             image: "/img4.jpeg",
             title: "swan 5 Chute 320 Channel",
             link: "/Products/pro5",
           },
           {
-            image: "/img5.jpeg",
-            title: "swan 5 chute 320 channel box type",
+            image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875490/256_channel_4_chute_wuw2wp.jpg",
+            title: "Swan 4 chute 256 channel",
             link: "/Products/pro4",
           },
           {
@@ -312,16 +312,19 @@ const solutions = [
             link: "/Products/pro3",
           },
           {
-            image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875391/128_channel_2_chute_zwprka.jpg",
+            image:
+              "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875391/128_channel_2_chute_zwprka.jpg",
             title: "Swan 2 chute 128 channel",
           },
           {
-            image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875591/448_Channel_7_chute_fb3ugx.jpg",
+            image:
+              "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875591/448_Channel_7_chute_fb3ugx.jpg",
             title: "Swan 7 chute 448 channel",
           },
           {
-            image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875333/64_channel_1_chute_a27wrm.jpg",
-            title: "Swan 3 Chute 192 Channel",
+            image:
+              "https://res.cloudinary.com/dybpd6dkz/image/upload/v1746875333/64_channel_1_chute_a27wrm.jpg",
+            title: "Swan 1 Chute 64 Channel",
           },
         ],
       }
