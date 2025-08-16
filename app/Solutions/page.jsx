@@ -19,8 +19,8 @@ const solutions = [
   {
     id: "MultiGrains",
     title: "Agricultural Products Sorting",
-    image: "/photo-1501430654243-c934cec2e1c0.avif",
-    icon: "🌾",
+    image: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1755359423/WhatsApp_Image_2025-08-16_at_7.08.01_PM_jl5hyn.jpg",
+    // icon: "🌾",
     items: [
       // Rice
       {
@@ -1270,6 +1270,21 @@ const solutions = [
               ],
               description:
                 "Coriander seeds are fragrant, dried seeds used as a spice in culinary dishes and spice mixes, known for their flavor and digestive benefits.",
+            },
+          },
+          {
+            src: "https://res.cloudinary.com/dybpd6dkz/image/upload/v1755326248/WhatsApp_Image_2025-08-16_at_11.58.10_AM_pvfpyl.jpg",
+            title: "Chia Seeds",
+            details: {
+              points: [
+                "Sorted by size and color for uniform texture",
+                "Graded for optimal oil extraction",
+                "Premium quality sorted for baking and sweets",
+                "Smaller seeds selected for enhanced crunch",
+                "Grains sorted for even cooking in traditional dishes",
+              ],
+              description:
+                "Chai Seeds are tiny, oil-rich seeds used for their nutty flavor in baking, sweets, and traditional curries, and are valued for their nutritional content.",
             },
           },
         ],
