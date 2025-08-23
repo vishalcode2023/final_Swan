@@ -220,18 +220,18 @@ const data = {
         label: " ",
         img: "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754968446/WhatsApp_Image_2025-08-11_at_7.07.49_PM_1_isvppy.jpg",
       },
-      {
-        label: " ",
-        img: "https://res.cloudinary.com/dz4gzayip/image/upload/v1755863836/WhatsApp_Image_2025-08-22_at_5.25.45_PM_is602n.jpg",
-      },
+      // {
+      //   label: " ",
+      //   img: "https://res.cloudinary.com/dz4gzayip/image/upload/v1755863836/WhatsApp_Image_2025-08-22_at_5.25.45_PM_is602n.jpg",
+      // },
       {
         label: " ",
         img: "https://res.cloudinary.com/dz4gzayip/image/upload/v1755865692/WhatsApp_Image_2025-08-22_at_5.57.28_PM_djl5nc.jpg",
       },
-      {
-        label:" ",
-        img:"https://res.cloudinary.com/dz4gzayip/image/upload/v1755864241/WhatsApp_Image_2025-08-22_at_5.25.59_PM_bem5wk.jpg"
-      }
+      // {
+      //   label:" ",
+      //   img:"https://res.cloudinary.com/dz4gzayip/image/upload/v1755864241/WhatsApp_Image_2025-08-22_at_5.25.59_PM_bem5wk.jpg"
+      // }
     ],
   },
 

@@ -293,6 +293,22 @@ const solutions = [
               ],
               "description": "Black-eyed peas are nutrient-dense legumes used in a variety of regional dishes for their unique look and rich nutrients."
             }
+          },
+
+
+          {
+            "src": "https://res.cloudinary.com/dz4gzayip/image/upload/v1755862217/WhatsApp_Image_2025-08-22_at_4.37.22_PM_ejp6r0.jpg",
+            "title": "Urad Split Dal",
+            "details": {
+              "points": [
+                "Precision sorting highlights unique eye-spot feature",
+                "Removes misshapen or blemished peas",
+                "Improves consistency for canned or dry goods",
+                "Ideal for branding in international markets",
+                "Reduces manual inspection time"
+              ],
+              "description": " nutrient-dense legumes used in a variety of regional dishes for their unique look and nutrients."
+            }
           }
         ],
         recommended: [

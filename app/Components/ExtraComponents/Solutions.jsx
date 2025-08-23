@@ -13,7 +13,7 @@ const inputImages = [
 ];
 
 const acceptImages = [
-  "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754812233/WhatsApp_Image_2025-08-06_at_7.23.59_PM_zgwall.jpg",
+  "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754968447/WhatsApp_Image_2025-08-11_at_7.07.49_PM_dmnyoj.jpg",
   "https://res.cloudinary.com/dybpd6dkz/image/upload/v1754639653/WhatsApp_Image_2025-08-07_at_5.48.54_PM_a1xu0z.jpg",
   "https://res.cloudinary.com/dz4gzayip/image/upload/v1755862433/WhatsApp_Image_2025-08-22_at_5.02.27_PM_tjy9az.jpg",
   "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754813095/WhatsApp_Image_2025-08-06_at_7.24.04_PM_1_xgmhqp.jpg",
@@ -21,7 +21,7 @@ const acceptImages = [
 ];
 
 const rejectionImages = [
-  "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754968447/WhatsApp_Image_2025-08-11_at_7.07.49_PM_dmnyoj.jpg",
+  "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754812233/WhatsApp_Image_2025-08-06_at_7.23.59_PM_zgwall.jpg",
   "https://res.cloudinary.com/dybpd6dkz/image/upload/v1755323374/WhatsApp_Image_2025-08-16_at_11.18.13_AM_lrx3kn.jpg",
   "https://res.cloudinary.com/dz4gzayip/image/upload/v1755862574/WhatsApp_Image_2025-08-22_at_5.04.23_PM_wte5ss.jpg",
   "https://res.cloudinary.com/dt2juqy9s/image/upload/v1754813400/WhatsApp_Image_2025-08-06_at_7.24.05_PM_v3nyya.jpg",
