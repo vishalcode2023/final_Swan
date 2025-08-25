@@ -553,7 +553,7 @@ const solutions = [
           },
 
           {
-            "src": "https://res.cloudinary.com/dybpd6dkz/image/upload/v1755326993/WhatsApp_Image_2025-08-16_at_12.19.00_PM_fzfk9h.jpg",
+            "src": "https://res.cloudinary.com/dybpd6dkz/image/upload/v1756137683/img2_qe4xdb.png",
             "title": "Mustard Seeds",
             "details": {
               "points": [
