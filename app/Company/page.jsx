@@ -32,7 +32,7 @@ const Page = () => {
         {/* Full-width Image */}
         <div className="max-w-2xl mx-auto mb-8">
           <img
-            src="https://res.cloudinary.com/dt2juqy9s/image/upload/v1755247535/WhatsApp_Image_2025-08-15_at_2.08.02_PM_bmsfbb.jpg"
+            src="https://ik.imagekit.io/cmclhejln/Company.jpeg?updatedAt=1760631010072"
             alt="Company Quality Standards"
             className="w-full h-[200px] md:h-[250px] object-contain rounded-xl "
           />
